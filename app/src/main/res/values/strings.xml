@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PocketWord</string>
+    <string name="your_meaning_here">Your Meaning Here</string>
+    <string name="todo">todo</string>
+    <string name="enter_your_word_here">Enter Your Word Here</string>
+    <string name="Search">search</string>
+    <string name="fd">TODO</string>
+</resources>
